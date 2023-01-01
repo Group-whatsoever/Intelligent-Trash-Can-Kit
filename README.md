@@ -28,7 +28,7 @@
 
 This project is brought to you by Group 4 in the SDM 242 course during the Fall 2022 semester.
 
-**Group 4 Menbers**:
+**Group 4 Members**:
  - [DreamWalkerXZ](https://github.com/DreamWalkerXZ)
  - [drinktoomuchsax](https://github.com/drinktoomuchsax)
  - [Doveqise](https://github.com/Doveqise)
